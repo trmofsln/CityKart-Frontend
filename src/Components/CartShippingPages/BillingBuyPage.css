@@ -1,0 +1,27 @@
+.billing-form {
+    position: relative;
+    list-style: none;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    background: white;
+  }
+
+  .textColor-h1{
+    color:darkgreen;
+  }
+
+  .textColor-h2{
+    color: red;
+  }
+
+  .textColor-h3{
+    color: blue;
+  }
+
+  .styling{
+    padding-bottom: 5rem;
+  }

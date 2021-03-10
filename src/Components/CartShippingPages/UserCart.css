@@ -1,0 +1,19 @@
+.textDecoration-h1 {
+  color: gold;
+  border-color: firebrick;
+  text-decoration: none;
+  border-style: solid;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: lightcoral;
+  border-width: 4px;
+  border-radius: 6px;
+  width:fit-content;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+.styling{
+  padding-bottom: 5rem;
+  padding-top: 1rem;
+}

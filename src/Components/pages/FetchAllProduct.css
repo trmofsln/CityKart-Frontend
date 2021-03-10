@@ -1,0 +1,25 @@
+.inputStyle-textarea{
+    margin:1rem 0;
+    font: inherit;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+    padding: 0.15rem 0.25rem;
+    padding-top:0.2rem;
+    padding-bottom: 0.2rem;
+    padding-right: 0.5rem;
+    border:solid;
+    border-radius: 0.5rem;
+}
+
+ 
+  .inputStyle-label {
+    font-weight: bold;
+    margin:1rem 0;
+    color:midnightblue;
+    margin-bottom: 0.5rem;
+    border:solid;
+    border-radius: 1rem;
+    padding:0.2rem;
+    margin-right: 1rem;
+  }
+  
